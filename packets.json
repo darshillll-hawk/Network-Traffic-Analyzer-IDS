@@ -1,0 +1,35 @@
+[
+  {
+    "time": "2026-04-03 18:00:01",
+    "src_ip": "192.168.1.105",
+    "dst_ip": "8.8.8.8",
+    "protocol": "UDP",
+    "src_port": 54321,
+    "dst_port": 53,
+    "size": 74,
+    "info": "DNS Query: google.com",
+    "flags": ""
+  },
+  {
+    "time": "2026-04-03 18:00:02",
+    "src_ip": "192.168.1.105",
+    "dst_ip": "142.250.80.46",
+    "protocol": "TCP",
+    "src_port": 51234,
+    "dst_port": 443,
+    "size": 120,
+    "info": "HTTPS",
+    "flags": "S"
+  },
+  {
+    "time": "2026-04-03 18:00:03",
+    "src_ip": "192.168.1.108",
+    "dst_ip": "192.168.1.1",
+    "protocol": "ICMP",
+    "src_port": null,
+    "dst_port": null,
+    "size": 64,
+    "info": "Echo Request",
+    "flags": ""
+  }
+]
